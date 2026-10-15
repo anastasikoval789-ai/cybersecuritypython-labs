@@ -1,0 +1,11 @@
+{
+    "student": "Коваль Вікторія Вікторівна",
+    "group": "КБ-202",
+    "variant": 8,
+    "status": "Success",
+    "actions_logged": 3,
+    "files_created": [
+        "users.csv",
+        "log.json"
+    ]
+}
