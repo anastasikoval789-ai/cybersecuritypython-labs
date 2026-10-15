@@ -21,7 +21,7 @@ from shared.student import GROUP_NAME, STUDENT_NAME, VARIANT_NUMBER
 
 def main():
   print("=" * 70)
-  print(f" ПОЧАТОК ВИКОНАННЯ ЛАБОРАТОРНОЇ РОБОТИ №1")
+  print(" ПОЧАТОК ВИКОНАННЯ ЛАБОРАТОРНОЇ РОБОТИ №1")
   print(f" Студент: {STUDENT_NAME} | Група: {GROUP_NAME} | Варіант: {VARIANT_NUMBER}")
   print("=" * 70 + "\n")
 
