@@ -1,11 +1,29 @@
-{
-    "student": "Коваль Вікторія Вікторівна",
-    "group": "КБ-202",
-    "variant": 8,
-    "status": "Success",
-    "actions_logged": 3,
-    "files_created": [
-        "users.csv",
-        "log.json"
-    ]
-}
+[
+    {
+        "student": "Коваль Вікторія Вікторівна",
+        "group": "КБ-202",
+        "variant": 8,
+        "status": "Success",
+        "actions_logged": 3,
+        "files_created": [
+            "users.csv",
+            "log.json"
+        ]
+    },
+    {
+        "event": "login",
+        "user": "admin_koval",
+        "result": "success",
+        "timestamp": "2026-10-15 23:44:35",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_koval",
+        "result": "success",
+        "timestamp": "2026-10-15 23:49:10",
+        "args": [],
+        "kwargs": {}
+    }
+]
